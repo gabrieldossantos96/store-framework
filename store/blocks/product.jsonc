@@ -56,8 +56,7 @@
     ]
   },
 
-  "product-brand": {
-    "component": "ProductBrand",
+  "product-brand": {    
     "props": {      
       "displayMode": "logo",
       "height": "30"      
